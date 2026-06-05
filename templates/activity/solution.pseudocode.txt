@@ -1,0 +1,4 @@
+﻿ALGORITHM ActivityTemplate
+BEGIN
+    WRITE "Activity template"
+END
