@@ -1,4 +1,6 @@
-﻿# Tarefas acadêmicas de pseudocódigo
+<p align="center">
+ # Tarefas acadêmicas de pseudocódigo
+</p>
 
 <p align="center">
 Atividades de programação acadêmica, exercícios e notas de estudo.
