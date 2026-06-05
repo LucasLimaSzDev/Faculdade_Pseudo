@@ -1,0 +1,20 @@
+﻿# Build outputs and temporary files
+build/
+dist/
+out/
+bin/
+obj/
+*.exe
+*.o
+*.obj
+*.log
+
+# Editor/OS files
+.vscode/
+.idea/
+.vs/
+Thumbs.db
+.DS_Store
+
+# Keep placeholders
+!.gitkeep
