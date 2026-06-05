@@ -1,7 +1,7 @@
-﻿# Academic Pseudocode Assignments
+﻿# Tarefas acadêmicas de pseudocódigo
 
 <p align="center">
-  Academic programming activities, exercises and study notes.
+Atividades de programação acadêmica, exercícios e notas de estudo.
 </p>
 
 <p align="center">
